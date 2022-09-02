@@ -1,0 +1,34 @@
+body{
+    display: grid;
+    height: 97vh;
+    grid-template-rows: 1fr 3fr;
+    line-height: 1.1;
+}
+
+header{
+    text-align: center;
+}
+
+.top{
+    background-color: rgb(195, 195, 195);
+}
+
+nav{
+    font-weight: bold;
+}
+
+.sid23{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+}
+
+article img{
+    width: 100%;
+    height: 100%;
+}
+
+.headline{
+    text-align: center;
+}
+
